@@ -1,5 +1,7 @@
 # Githubフロー（forkパターン）
 
+> ossなどに参加する際にfork&プルリクするパターンが一般的なので、このリポジトリは学習用として作成しています。
+
 ## 1. Fork する
 
 GithubでForkしたいプロジェクトまで行って、右上にあるForkボタンを押します。今回、 [https://github.com/borderhub/demo.git](https://github.com/borderhub/demo.git) をForkします、私のGithubアカウントshirabelass1001上では [https://github.com/shirabelass1001/demo.git](https://github.com/shirabelass1001/demo.git)  というリポジトリが作成されます。
